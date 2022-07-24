@@ -1,2 +1,2 @@
 second file content added
-modified in second file to test merge 
+modified in second file to test merge ...
